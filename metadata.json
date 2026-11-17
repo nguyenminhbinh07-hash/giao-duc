@@ -1,0 +1,6 @@
+{
+  "name": "Giáo án dùng hiện vật số cho tiểu học (I03)",
+  "description": "Ứng dụng web giáo dục di sản địa phương dành cho giáo viên và học sinh tiểu học, chuẩn siêu dữ liệu Dublin Core, tích hợp giáo án, phiếu học tập tương tác và trợ lý hỏi đáp bám sát tư liệu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

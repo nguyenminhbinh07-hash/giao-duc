@@ -1,0 +1,1174 @@
+{
+  "khoiTuLieu": {
+    "maDeTai": "I03",
+    "tenUngDung": "Giáo án dùng hiện vật số cho tiểu học",
+    "tenKhoiTuLieu": "Bộ hiện vật Bảo vật quốc gia và Di sản văn hóa tiêu biểu phục vụ dạy học Lịch sử Tiểu học",
+    "moTaTongQuan": "Khối tư liệu số gồm 15 hiện vật và văn bản lịch sử tiêu biểu phục vụ giảng dạy môn Lịch sử và Địa lí (và nội dung Giáo dục địa phương) cấp Tiểu học. Dữ liệu được chuẩn hóa tách biệt với giao diện theo đủ 15 trường lõi Dublin Core (ISO 15836) cùng các trường đơn vị hành chính hai cấp, tình trạng bảo quản, kiểm chứng văn tự và phạm vi quyền công bố.",
+    "doiTuongMucTieu": "Giáo viên tiểu học, học sinh lớp 3–5, phụ huynh và người quan tâm đến giáo dục di sản địa phương.",
+    "noiLuuGiuChinh": {
+      "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia và các di tích, bảo tàng lưu giữ Bảo vật quốc gia",
+      "xaPhuong": "Phường Cửa Nam",
+      "tinhThanhPho": "Thành phố Hà Nội"
+    },
+    "nguoiChoPhepCongBoChinh": {
+      "hoTen": "Cục Di sản văn hóa & Bảo tàng Lịch sử Quốc gia (Tư liệu đã công bố chính thức)",
+      "vaiTro": "Cơ quan quản lý nhà nước và đơn vị lưu giữ di sản văn hóa",
+      "ngayDongY": "Công bố công khai trên cổng thông tin điện tử (truy cập ngày 16/11/2026)",
+      "phamVi": "Sử dụng cho mục đích giáo dục tiểu học phi lợi nhuận; trích dẫn đầy đủ nguồn, không sao chép thương mại."
+    },
+    "ngayCapNhatMau": "2026-11-16"
+  },
+  "hienVat": [
+    {
+      "title": "Trống đồng Ngọc Lũ",
+      "creator": "Cư dân văn hóa Đông Sơn",
+      "subject": "Hiện vật khảo cổ; Văn hóa Đông Sơn; Lịch sử lớp 4",
+      "description": "Trống đồng loại I Heger kích thước lớn, cao 63 cm, đường kính mặt 79 cm. Mặt trống chính giữa có hình ngôi sao nổi 14 cánh, xen kẽ họa tiết công cách điệu; các vành hoa văn thể hiện cảnh sinh hoạt cộng đồng, đánh trống, giã gạo, nhà sàn và chim Lạc bay ngược chiều kim đồng hồ.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Thế kỷ III – II TCN",
+      "type": "Hiện vật khảo cổ",
+      "format": "Hợp kim đồng đúc; Cao 63 cm, đường kính mặt 79 cm; Tệp ảnh JPG",
+      "identifier": "I03-00001",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 1 - Giáo án Lịch sử Tiểu học; Liên quan mã I03-00002, I03-00003",
+      "coverage": "Vùng đồng bằng Bắc Bộ; Thời kỳ văn hóa Đông Sơn",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Làng Ngọc Lũ, xã Như Trác, huyện Nam Xang, phủ Lý Nhân, tỉnh Hà Nam (nay thuộc tỉnh Ninh Bình)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Lớp gỉ đồng màu xanh ngọc bảo quản ổn định tại bảo tàng, hoa văn khắc chìm sắc nét."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-01",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Bảo tàng Lịch sử Quốc gia (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn & baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00001-anh-01.jpg",
+          "chuThich": "Ảnh chụp toàn cảnh Trống đồng Ngọc Lũ lưu giữ tại Bảo tàng Lịch sử Quốc gia",
+          "nguon": "Bảo tàng Lịch sử Quốc gia / Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Quan sát mặt trống đồng Ngọc Lũ (I03-00001), em thấy có những hoạt động sinh hoạt nào của người Việt cổ?",
+          "goiYTraLoi": "Cảnh người giã gạo, đánh trống đồng, nhảy múa, chèo thuyền và hình chim Lạc bay."
+        },
+        {
+          "cauHoi": "Vì sao chúng ta nên quan sát hiện vật qua ảnh số thay vì chạm trực tiếp vào bản gốc?",
+          "goiYTraLoi": "Để bảo vệ bản gốc tránh oxy hóa, hư hại và giúp nhiều học sinh cùng quan sát chi tiết hoa văn."
+        }
+      ]
+    },
+    {
+      "title": "Trống đồng Hoàng Hạ",
+      "creator": "Cư dân văn hóa Đông Sơn",
+      "subject": "Hiện vật khảo cổ; Văn hóa Đông Sơn; Lịch sử lớp 4",
+      "description": "Trống đồng Đông Sơn cỡ lớn, cao 61,5 cm, đường kính mặt 79 cm. Tâm mặt trống có ngôi sao 16 cánh, bao quanh là các vành hoa văn hình học, chim Lạc bay và cảnh lễ hội rước thuyền, múa hóa trang lông chim đặc sắc.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Thế kỷ III – II TCN",
+      "type": "Hiện vật khảo cổ",
+      "format": "Hợp kim đồng đúc; Cao 61,5 cm, đường kính mặt 79 cm; Tệp ảnh JPG",
+      "identifier": "I03-00002",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 1 - Giáo án Lịch sử Tiểu học; Liên quan mã I03-00001",
+      "coverage": "Vùng châu thổ sông Hồng; Thời kỳ văn hóa Đông Sơn",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Làng Hoàng Hạ, huyện Phú Xuyên, tỉnh Hà Đông (nay thuộc thành phố Hà Nội)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Dáng trống cân đối, hoa văn mặt và tang trống còn rõ nét."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2015-04",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Bảo tàng Lịch sử Quốc gia (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn & baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00002-anh-01.jpg",
+          "chuThich": "Ảnh chụp Trống đồng Hoàng Hạ trưng bày tại Bảo tàng Lịch sử Quốc gia",
+          "nguon": "Bảo tàng Lịch sử Quốc gia / Wikimedia Commons"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Ngôi sao ở chính giữa mặt trống đồng Hoàng Hạ có bao nhiêu cánh?",
+          "goiYTraLoi": "Ngôi sao ở tâm mặt trống có 16 cánh."
+        },
+        {
+          "cauHoi": "Hình ảnh con thuyền và chim Lạc trên trống phản ánh môi trường sống nào của cư dân Văn Lang xưa?",
+          "goiYTraLoi": "Gắn liền với vùng đồng bằng sông nước và nền nông nghiệp trồng lúa nước."
+        }
+      ]
+    },
+    {
+      "title": "Thạp đồng Đào Thịnh",
+      "creator": "Cư dân văn hóa Đông Sơn",
+      "subject": "Hiện vật khảo cổ; Văn hóa Đông Sơn; Lịch sử lớp 4",
+      "description": "Thạp đồng lớn nhất của văn hóa Đông Sơn từng được phát hiện, cao 98 cm, đường kính miệng 61 cm. Thân thạp trang trí hoa văn hình học, cảnh thuyền chiến và chim Lạc; trên nắp thạp có 4 khối tượng đôi nam nữ thể hiện tín ngưỡng phồn thực.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Thế kỷ III – II TCN",
+      "type": "Hiện vật khảo cổ",
+      "format": "Hợp kim đồng đúc; Cao 98 cm, đường kính miệng 61 cm; Tệp ảnh JPG",
+      "identifier": "I03-00003",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 1 - Giáo án Lịch sử Tiểu học; Liên quan mã I03-00001",
+      "coverage": "Lưu vực sông Hồng; Thời kỳ văn hóa Đông Sơn",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Xã Đào Thịnh, huyện Trấn Yên, tỉnh Yên Bái (nay thuộc tỉnh Lào Cai)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Hư hại nhẹ",
+        "moTaNgan": "Một phần thân và nắp thạp đã được phục chế bảo quản ổn định tại bảo tàng."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-02",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Bảo tàng Lịch sử Quốc gia (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn & baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00003-anh-01.jpg",
+          "chuThich": "Ảnh chụp Thạp đồng Đào Thịnh lưu giữ tại Bảo tàng Lịch sử Quốc gia",
+          "nguon": "Bảo tàng Lịch sử Quốc gia / Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Thạp đồng Đào Thịnh (I03-00003) có kích thước như thế nào và được dùng để làm gì?",
+          "goiYTraLoi": "Cao 98 cm, đường kính miệng 61 cm; dùng để đựng đồ, lương thực hoặc làm đồ tùy táng."
+        }
+      ]
+    },
+    {
+      "title": "Sưu tập Mũi tên đồng Cổ Loa",
+      "creator": "Quân dân nước Âu Lạc thời An Dương Vương",
+      "subject": "Hiện vật khảo cổ; Thành Cổ Loa; Lịch sử lớp 4",
+      "description": "Sưu tập hàng vạn mũi tên đồng ba cạnh sắc nhọn được phát hiện tại khu vực Cầu Vực (phía nam thành Cổ Loa) năm 1959. Mỗi mũi tên dài khoảng 6 – 11 cm, gồm đầu nhọn ba cạnh, trụ và chuôi tra vào cán, minh chứng cho kỹ thuật đúc vũ khí hàng loạt thời Âu Lạc.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Thế kỷ III – II TCN",
+      "type": "Hiện vật khảo cổ",
+      "format": "Hợp kim đồng; Dài 6 – 11 cm; Tệp ảnh JPG",
+      "identifier": "I03-00004",
+      "source": "Bảo tàng Lịch sử Quốc gia & Khu di tích Cổ Loa",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 1 - Nước Âu Lạc và Thành Cổ Loa",
+      "coverage": "Cổ Loa, Đông Anh, thành phố Hà Nội; Thời kỳ An Dương Vương",
+      "rights": "Tư liệu hiện vật đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Khu vực Cầu Vực, xã Cổ Loa, huyện Đông Anh, thành phố Hà Nội",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Hình dáng mũi tên ba cạnh còn nguyên vẹn, sắc nét."
+      },
+      "soDangKyHoacThamKhao": "KQ-CL-1959",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Bảo tàng Lịch sử Quốc gia (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin hiện vật",
+        "ngayDongY": "Công bố công khai trên baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00004-anh-01.jpg",
+          "chuThich": "Ảnh chụp sưu tập mũi tên đồng ba cạnh phát hiện tại Cổ Loa",
+          "nguon": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Mũi tên đồng Cổ Loa có cấu tạo mấy cạnh và việc tìm thấy hàng vạn mũi tên chứng minh điều gì?",
+          "goiYTraLoi": "Mũi tên có 3 cạnh sắc giúp bay thẳng; chứng minh kho vũ khí lớn và cơ sở lịch sử của truyền thuyết nỏ thần."
+        }
+      ]
+    },
+    {
+      "title": "Tượng Phật A Di Đà chùa Phật Tích",
+      "creator": "Nghệ nhân điêu khắc thời Lý",
+      "subject": "Điêu khắc đá; Nghệ thuật thời Lý; Lịch sử địa phương Bắc Ninh",
+      "description": "Tượng Phật A Di Đà tạc bằng đá sa thạch nguyên khối màu xanh xám, cao khoảng 1,87 m (tính cả bệ cao 2,77 m). Tượng ngồi thiền trên tòa sen, gương mặt hiền từ thanh thoát, nếp áo mềm mại; phần bệ sen chạm khắc hoa văn rồng thời Lý và sóng nước tinh xảo.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Năm 1057 (triều vua Lý Thánh Tông)",
+      "type": "Điêu khắc đá",
+      "format": "Đá sa thạch nguyên khối; Cao 2,77 m cả bệ; Tệp ảnh JPG",
+      "identifier": "I03-00005",
+      "source": "Chùa Phật Tích, tỉnh Bắc Ninh & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 2 - Dấu ấn văn hóa thời Lý tại quê hương Bắc Ninh",
+      "coverage": "Tỉnh Bắc Ninh; Thời kỳ nhà Lý (thế kỷ XI)",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Chùa Phật Tích",
+        "xaPhuong": "Xã Phật Tích",
+        "tinhThanhPho": "Tỉnh Bắc Ninh"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Chùa Vạn Phúc (chùa Phật Tích), huyện Tiên Du, tỉnh Bắc Ninh",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Đã được phục hồi phần đầu tượng và bảo quản trang nghiêm trong chính điện chùa Phật Tích."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-10",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Cổng thông tin điện tử tỉnh Bắc Ninh",
+        "vaiTro": "Cơ quan quản lý di sản văn hóa",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn & bacninh.gov.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00005-anh-01.jpg",
+          "chuThich": "Ảnh chụp Tượng Phật A Di Đà bằng đá thời Lý tại chùa Phật Tích, Bắc Ninh",
+          "nguon": "Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Tượng Phật A Di Đà ở chùa Phật Tích được làm từ chất liệu gì và bệ tượng chạm khắc hình ảnh nào?",
+          "goiYTraLoi": "Làm bằng đá sa thạch năm 1057; bệ tượng chạm hoa sen, rồng thời Lý và sóng nước."
+        }
+      ]
+    },
+    {
+      "title": "Cột đá chạm rồng chùa Dạm",
+      "creator": "Nghệ nhân điêu khắc thời Lý",
+      "subject": "Điêu khắc đá; Nghệ thuật thời Lý; Lịch sử địa phương Bắc Ninh",
+      "description": "Cột đá nguyên khối cao gần 5 m (tính cả đế vuông), phần thân trên hình tròn khắc nổi đôi rồng thời Lý cuốn quanh cột hướng đầu lên trên để chầu viên ngọc báu. Đây là kiệt tác điêu khắc đá tiêu biểu gắn với công cuộc xây dựng chùa Dạm thời vua Lý Nhân Tông.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Cuối thế kỷ XI (khoảng năm 1086 – 1094)",
+      "type": "Điêu khắc đá",
+      "format": "Đá sa thạch nguyên khối; Cao gần 5 m; Tệp ảnh JPG",
+      "identifier": "I03-00006",
+      "source": "Chùa Dạm, tỉnh Bắc Ninh & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 2 - Dấu ấn văn hóa thời Lý tại quê hương Bắc Ninh",
+      "coverage": "Tỉnh Bắc Ninh; Thời kỳ nhà Lý (thế kỷ XI)",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Chùa Dạm",
+        "xaPhuong": "Phường Nam Sơn",
+        "tinhThanhPho": "Tỉnh Bắc Ninh"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Chùa Đại Lãm (chùa Dạm), xã Nam Sơn, thành phố Bắc Ninh, tỉnh Bắc Ninh",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Hư hại nhẹ",
+        "moTaNgan": "Bề mặt đá chịu tác động thời tiết ngoài trời nhưng hình khối đôi rồng vẫn rõ nét."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2017-06",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Bảo tàng tỉnh Bắc Ninh",
+        "vaiTro": "Cơ quan quản lý di sản văn hóa",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00006-anh-01.jpg",
+          "chuThich": "Ảnh chụp Cột đá chạm rồng chùa Dạm tại tỉnh Bắc Ninh",
+          "nguon": "Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Trên thân cột đá chùa Dạm chạm khắc linh vật gì và dáng vẻ của nó có điểm gì đặc biệt?",
+          "goiYTraLoi": "Đôi rồng thời Lý uốn lượn mềm mại như sóng nước, thân tròn trơn không có vảy dày, hướng lên viên ngọc."
+        }
+      ]
+    },
+    {
+      "title": "Bia Vĩnh Lăng",
+      "creator": "Nguyễn Trãi soạn văn bia; Vũ Văn Phỉ viết chữ",
+      "subject": "Văn bia - Minh văn; Khởi nghĩa Lam Sơn; Lịch sử lớp 4",
+      "description": "Bia đá sa thạch đặt trên lưng rùa đá lớn tại khu di tích Lam Kinh, cao 2,79 m, rộng 1,94 m. Mặt bia khắc bài văn chữ Hán khoảng 750 chữ do danh nhân Nguyễn Trãi biên soạn, ghi lại thân thế, sự nghiệp lãnh đạo cuộc khởi nghĩa Lam Sơn và công đức của vua Lê Thái Tổ (Lê Lợi).",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Năm 1433 (niên hiệu Thuận Thiên thứ 6)",
+      "type": "Văn bia - Minh văn",
+      "format": "Bia đá sa thạch; Cao 2,79 m, rộng 1,94 m; Tệp ảnh JPG",
+      "identifier": "I03-00007",
+      "source": "Khu di tích Quốc gia đặc biệt Lam Kinh & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi; lzh (Hán)",
+      "relation": "Tích hợp trong Tiết 2 - Khám phá tư liệu chữ viết và văn bia lịch sử",
+      "coverage": "Lam Kinh, tỉnh Thanh Hóa; Thế kỷ XV",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Khu di tích lịch sử Lam Kinh",
+        "xaPhuong": "Xã Lam Sơn",
+        "tinhThanhPho": "Tỉnh Thanh Hóa"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Xã Xuân Lam, huyện Thọ Xuân, tỉnh Thanh Hóa",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Được bảo vệ trong nhà bia tại khu di tích Lam Kinh, văn tự khắc trên mặt bia còn rõ."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2013-02",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Cơ quan quản lý di sản văn hóa",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Trích dịch nội dung chính: Ghi lại sự nghiệp Lê Lợi dựng cờ khởi nghĩa ở Lam Sơn, trải qua gian khổ đánh thắng quân Minh, lên ngôi Hoàng đế năm 1428 mở ra triều đại Hậu Lê.",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00007-anh-01.jpg",
+          "chuThich": "Ảnh chụp Bia Vĩnh Lăng đặt trên lưng rùa đá tại Khu di tích Lam Kinh",
+          "nguon": "Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Ai là người soạn lời văn trên Bia Vĩnh Lăng và bia được đặt trên lưng con vật nào?",
+          "goiYTraLoi": "Danh nhân Nguyễn Trãi soạn văn bia; bia đặt trên lưng rùa đá tượng trưng cho sự trường tồn."
+        }
+      ]
+    },
+    {
+      "title": "Bình gốm hoa lam vẽ thiên nga (Gốm Chu Đậu)",
+      "creator": "Nghệ nhân làng gốm Chu Đậu",
+      "subject": "Đồ gốm - Sành sứ; Làng nghề truyền thống; Lịch sử lớp 4",
+      "description": "Bình gốm hoa lam cổ thời Lê sơ cao 54 cm, thân phình tròn, vẽ họa tiết chim thiên nga bơi giữa hồ sen bằng men xanh coban dưới lớp men trắng ngà trong bóng. Hiện vật được trục vớt từ tàu đắm Cù Lao Chàm, chứng minh sự phát triển của nghề gốm xuất khẩu Đại Việt thế kỷ XV.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Thế kỷ XV (triều Lê sơ)",
+      "type": "Đồ gốm - Sành sứ",
+      "format": "Gốm men hoa lam; Cao 54 cm; Tệp ảnh JPG",
+      "identifier": "I03-00008",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 1 - Đồ gốm và nghề thủ công truyền thống",
+      "coverage": "Làng gốm Chu Đậu và vùng biển Cù Lao Chàm; Thế kỷ XV",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Vùng biển Cù Lao Chàm, thành phố Hội An, tỉnh Quảng Nam (nơi phát hiện tàu đắm cổ)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Dáng bình nguyên vẹn, nước men và họa tiết vẽ tay còn tươi sáng."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-15",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00008-anh-01.jpg",
+          "chuThich": "Ảnh chụp Bình gốm hoa lam vẽ thiên nga trưng bày tại Bảo tàng Lịch sử Quốc gia",
+          "nguon": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Vì sao chiếc bình gốm Chu Đậu này lại được tìm thấy ở dưới đáy biển Cù Lao Chàm?",
+          "goiYTraLoi": "Vì gốm Việt Nam xưa rất nổi tiếng và được chở theo thuyền buôn đi xuất khẩu sang nhiều nước."
+        }
+      ]
+    },
+    {
+      "title": "Trống đồng Cảnh Thịnh",
+      "creator": "Nghệ nhân đúc đồng thời Tây Sơn",
+      "subject": "Hiện vật kim loại; Triều Tây Sơn; Lịch sử lớp 4",
+      "description": "Trống đồng đúc vào năm Cảnh Thịnh thứ 8 (1800) thời Tây Sơn, cao 47,5 cm, đường kính mặt 63 cm. Trên thân trống có khắc bài minh chữ Hán gồm 240 chữ ghi rõ lý do đúc trống để dâng cúng đền thờ thần tại Nghệ An, kết hợp truyền thống trống đồng Đông Sơn với kỹ thuật đúc thời Tây Sơn.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Năm 1800 (niên hiệu Cảnh Thịnh thứ 8)",
+      "type": "Hiện vật kim loại",
+      "format": "Hợp kim đồng đúc; Cao 47,5 cm, đường kính mặt 63 cm; Tệp ảnh JPG",
+      "identifier": "I03-00009",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi; lzh (Hán)",
+      "relation": "Tích hợp trong Tiết 2 - Triều đại Tây Sơn và văn tự trên hiện vật",
+      "coverage": "Nghệ An / Hà Nội; Năm 1800",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Đền thờ tại xã Trung Cần, huyện Nam Đàn, tỉnh Nghệ An",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Nguyên vẹn cả quai trống và 240 chữ minh văn khắc trên thân trống."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2013-09",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Trích dịch minh văn trên thân trống: Ghi năm Cảnh Thịnh thứ 8 (1800) các vị chức sắc cùng nhân dân đóng góp đồng tốt đúc trống dâng vào đền thờ thần cầu quốc thái dân an.",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00009-anh-01.jpg",
+          "chuThich": "Ảnh chụp Trống đồng Cảnh Thịnh lưu giữ tại Bảo tàng Lịch sử Quốc gia",
+          "nguon": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Trống đồng Cảnh Thịnh có điểm gì khác biệt so với trống đồng Ngọc Lũ thời Đông Sơn?",
+          "goiYTraLoi": "Trên thân trống có khắc bài văn chữ Hán ghi rõ năm đúc 1800 thời Tây Sơn."
+        }
+      ]
+    },
+    {
+      "title": "Ấn vàng Hoàng đế chi bảo",
+      "creator": "Tập thể nghệ nhân chế tác kim hoàn triều Nguyễn",
+      "subject": "Hiện vật cung đình; Triều Nguyễn; Lịch sử địa phương Bắc Ninh & Lớp 5",
+      "description": "Kim bảo (ấn vàng) lớn nhất và đẹp nhất của triều Nguyễn, đúc năm Minh Mạng thứ 4 (1823) bằng vàng ròng, nặng 10,78 kg, quai ấn hình rồng uốn khúc 5 móng, mặt dưới khắc nổi 4 chữ Triện 'Hoàng đế chi bảo'. Chiếc ấn được vua Bảo Đại trao lại cho chính quyền cách mạng ngày 30/8/1945.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Năm 1823 (hồi hương về Việt Nam năm 2023)",
+      "type": "Hiện vật kim loại",
+      "format": "Vàng ròng đúc; Nặng 10,78 kg; Tệp ảnh JPG",
+      "identifier": "I03-00010",
+      "source": "Bảo tàng Hoàng gia Nam Hồng, Bắc Ninh & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi; lzh (chữ Triện)",
+      "relation": "Tích hợp trong Tiết 3 - Cách mạng tháng Tám 1945 và Bảo vật tại Bắc Ninh",
+      "coverage": "Kinh đô Huế / Tỉnh Bắc Ninh; Năm 1823 – 1945",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Hoàng gia Nam Hồng",
+        "xaPhuong": "Phường Từ Sơn",
+        "tinhThanhPho": "Tỉnh Bắc Ninh"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Hoàng thành Huế, thành phố Huế",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Ấn vàng nguyên vẹn, sắc nét từng chi tiết vảy rồng và 4 chữ Triện dưới đế."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2024-13",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Cơ quan quản lý di sản văn hóa",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Phiên âm 4 chữ Triện dưới đế ấn: Hoàng đế chi bảo (Nghĩa là: Báu vật của Hoàng đế).",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00010-anh-01.jpg",
+          "chuThich": "Ảnh chụp Ấn vàng Hoàng đế chi bảo hiện lưu giữ tại Bảo tàng Hoàng gia Nam Hồng, Bắc Ninh",
+          "nguon": "Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Ấn vàng 'Hoàng đế chi bảo' gắn với sự kiện lịch sử nào tháng 8/1945 và hiện lưu giữ ở đâu tại Bắc Ninh?",
+          "goiYTraLoi": "Gắn với lễ thoái vị của vua Bảo Đại ngày 30/8/1945; hiện lưu giữ tại Bảo tàng Hoàng gia Nam Hồng (Từ Sơn, Bắc Ninh)."
+        }
+      ]
+    },
+    {
+      "title": "Tranh dân gian Đông Hồ 'Đám cưới chuột'",
+      "creator": "Nghệ nhân làng tranh dân gian Đông Hồ",
+      "subject": "Di sản văn hóa dân gian; Làng nghề Bắc Ninh; Lịch sử địa phương",
+      "description": "Bản in truyền thống trên giấy dó quét điệp tự nhiên, sử dụng 5 bản khắc gỗ thủ công với màu sắc chiết xuất từ thiên nhiên (vàng hoa hòe, đỏ sỏi son, đen than lá tre, xanh lá chàm). Tranh chia hai tầng kể câu chuyện đám cưới nhà chuột mang lễ vật biếu mèo với nét vẽ hóm hỉnh, giàu tính nhân văn.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Truyền thống từ thế kỷ XVI – XVII",
+      "type": "Tranh dân gian",
+      "format": "Tranh in khắc gỗ trên giấy dó phủ điệp; Tệp ảnh JPG",
+      "identifier": "I03-00011",
+      "source": "Trung tâm Bảo tồn tranh dân gian Đông Hồ & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi; lzh (Hán Nôm)",
+      "relation": "Tích hợp trong Tiết 3 - Làng nghề truyền thống quê hương Bắc Ninh",
+      "coverage": "Làng Đông Hồ, tỉnh Bắc Ninh",
+      "rights": "Tư liệu Di sản văn hóa phi vật thể quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Trung tâm Bảo tồn tranh dân gian Đông Hồ",
+        "xaPhuong": "Phường Song Hồ",
+        "tinhThanhPho": "Tỉnh Bắc Ninh"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Làng Đông Hồ, xã Song Hồ, thị xã Thuận Thành, tỉnh Bắc Ninh",
+      "loaiBanHienThi": "Bản số của sao",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Bản in truyền thống màu sắc tự nhiên trên giấy điệp được bảo quản trong khung trưng bày."
+      },
+      "soDangKyHoacThamKhao": "DSVH-2013-ĐH",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Cổng thông tin điện tử tỉnh Bắc Ninh",
+        "vaiTro": "Cơ quan quản lý di sản văn hóa",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn & bacninh.gov.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Chữ đề trên tranh: Thử hôn (Đám cưới chuột).",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00011-anh-01.jpg",
+          "chuThich": "Ảnh chụp bức tranh dân gian Đông Hồ 'Đám cưới chuột'",
+          "nguon": "Cục Di sản văn hóa / Cổng thông tin điện tử tỉnh Bắc Ninh"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Giấy làm tranh Đông Hồ có ánh lấp lánh tự nhiên là nhờ nguyên liệu gì?",
+          "goiYTraLoi": "Nhờ vỏ con điệp biển nghiền nát trộn với hồ nếp quét lên mặt giấy dó."
+        }
+      ]
+    },
+    {
+      "title": "Tác phẩm 'Đường Kách mệnh'",
+      "creator": "Nguyễn Ái Quốc (Chủ tịch Hồ Chí Minh)",
+      "subject": "Tư liệu lịch sử cận đại; Bác Hồ; Lịch sử lớp 5",
+      "description": "Tập hợp các bài giảng của lãnh tụ Nguyễn Ái Quốc tại các lớp huấn luyện cán bộ Hội Việt Nam Cách mạng Thanh niên ở Quảng Châu (Trung Quốc) từ năm 1925 đến 1927, được Bộ Tuyên truyền của Hội Liên hiệp các dân tộc bị áp bức in ấn lần đầu năm 1927 bằng phương pháp in đá trên giấy dó mỏng.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Năm 1927",
+      "type": "Văn bản lịch sử",
+      "format": "Sách in thạch bản (in đá) trên giấy dó; Tệp ảnh JPG",
+      "identifier": "I03-00012",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 3 - Hành trình tìm đường cứu nước của Nguyễn Ái Quốc",
+      "coverage": "Quảng Châu (Trung Quốc) / Hà Nội; Năm 1927",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Quảng Châu, tỉnh Quảng Đông, Trung Quốc (nơi xuất bản năm 1927)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Hư hại nhẹ",
+        "moTaNgan": "Giấy dó cổ ngả vàng theo thời gian, được bảo quản trong chế độ nhiệt độ và độ ẩm đặc biệt."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-28",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Bản gốc viết bằng chữ Quốc ngữ giản dị, dễ hiểu, nêu rõ tư cách người cách mạng và con đường giải phóng dân tộc.",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00012-anh-01.jpg",
+          "chuThich": "Ảnh chụp trang bìa bản gốc tác phẩm 'Đường Kách mệnh' năm 1927",
+          "nguon": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Cuốn sách 'Đường Kách mệnh' ra đời năm nào và vì sao Bác Hồ viết bằng lời văn giản dị?",
+          "goiYTraLoi": "Ra đời năm 1927; viết giản dị bằng chữ Quốc ngữ để mọi người dân và cán bộ đều dễ đọc, dễ hiểu."
+        }
+      ]
+    },
+    {
+      "title": "Bản thảo 'Lời kêu gọi toàn quốc kháng chiến'",
+      "creator": "Chủ tịch Hồ Chí Minh",
+      "subject": "Tư liệu lịch sử hiện đại; Kháng chiến chống Pháp; Lịch sử lớp 5",
+      "description": "Bản thảo viết tay bằng mực xanh trên hai tờ giấy kẻ ngang (khổ 16,5 x 21 cm) của Chủ tịch Hồ Chí Minh viết ngày 19/12/1946 tại làng Vạn Phúc (Hà Đông, nay thuộc Hà Nội), hiệu triệu toàn thể nhân dân Việt Nam đứng lên kháng chiến bảo vệ độc lập dân tộc.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Ngày 19/12/1946",
+      "type": "Văn bản lịch sử",
+      "format": "Bản viết tay trên giấy; Khổ 16,5 x 21 cm; Tệp ảnh JPG",
+      "identifier": "I03-00013",
+      "source": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 3 - Toàn quốc kháng chiến chống thực dân Pháp",
+      "coverage": "Hà Nội; Ngày 19/12/1946",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quốc gia",
+        "xaPhuong": "Phường Cửa Nam",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Làng Vạn Phúc, thị xã Hà Đông, tỉnh Hà Đông (nay thuộc thành phố Hà Nội)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Nét chữ viết tay và các dấu gạch sửa của Chủ tịch Hồ Chí Minh còn rõ nét."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-30",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Bảo tàng Lịch sử Quốc gia & Cục Di sản văn hóa",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên baotanglichsu.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Trích đoạn: 'Chúng ta muốn hòa bình, chúng ta phải nhân nhượng. Nhưng chúng ta càng nhân nhượng, thực dân Pháp càng lấn tới... Không! Chúng ta thà hy sinh tất cả, chứ nhất định không chịu mất nước, nhất định không chịu làm nô lệ.'",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00013-anh-01.jpg",
+          "chuThich": "Ảnh chụp bản thảo viết tay 'Lời kêu gọi toàn quốc kháng chiến' ngày 19/12/1946",
+          "nguon": "Bảo tàng Lịch sử Quốc gia (baotanglichsu.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Bản thảo 'Lời kêu gọi toàn quốc kháng chiến' được Bác Hồ viết vào ngày tháng năm nào?",
+          "goiYTraLoi": "Viết ngày 19 tháng 12 năm 1946 tại làng Vạn Phúc (Hà Nội)."
+        }
+      ]
+    },
+    {
+      "title": "Thư của Chủ tịch Hồ Chí Minh gửi học sinh nhân ngày khai trường (9/1945)",
+      "creator": "Chủ tịch Hồ Chí Minh",
+      "subject": "Tư liệu giáo dục; Bác Hồ với thiếu nhi; Lịch sử & Tiếng Việt Tiểu học",
+      "description": "Bức thư lịch sử Chủ tịch Hồ Chí Minh gửi các em học sinh toàn quốc nhân ngày khai giảng năm học đầu tiên của nước Việt Nam Dân chủ Cộng hòa (tháng 9/1945), căn dặn các em chăm ngoan, học giỏi để đưa non sông Việt Nam bước tới đài vinh quang sánh vai với các cường quốc năm châu.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Tháng 9 năm 1945",
+      "type": "Văn bản lịch sử",
+      "format": "Tư liệu văn bản lưu trữ công bố; Tệp ảnh JPG",
+      "identifier": "I03-00014",
+      "source": "Cục Văn thư và Lưu trữ Nhà nước (archives.org.vn) & Bảo tàng Hồ Chí Minh",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 3 - Ngày khai trường đầu tiên của nước Việt Nam độc lập",
+      "coverage": "Việt Nam; Tháng 9/1945",
+      "rights": "Tư liệu lưu trữ quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Hồ Chí Minh",
+        "xaPhuong": "Phường Ba Đình",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Thành phố Hà Nội",
+      "loaiBanHienThi": "Bản số của sao",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Văn bản được bảo quản và công bố nguyên văn trong Hồ Chí Minh Toàn tập."
+      },
+      "soDangKyHoacThamKhao": "LTQG-1945-09",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Văn thư và Lưu trữ Nhà nước (Tư liệu đã công bố chính thức)",
+        "vaiTro": "Cơ quan lưu trữ nhà nước",
+        "ngayDongY": "Công bố công khai trên archives.org.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "Trích đoạn: 'Non sông Việt Nam có trở nên tươi đẹp hay không, dân tộc Việt Nam có bước tới đài vinh quang để sánh vai với các cường quốc năm châu được hay không, chính là nhờ một phần lớn ở công học tập của các em.'",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00014-anh-01.jpg",
+          "chuThich": "Ảnh chụp tư liệu Thư của Chủ tịch Hồ Chí Minh gửi các em học sinh tháng 9/1945",
+          "nguon": "Cục Văn thư và Lưu trữ Nhà nước (archives.org.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Theo lời dặn của Bác Hồ trong bức thư tháng 9/1945, điều gì sẽ giúp đất nước Việt Nam sánh vai với các cường quốc năm châu?",
+          "goiYTraLoi": "Chính là nhờ một phần lớn ở công học tập của các em học sinh."
+        }
+      ]
+    },
+    {
+      "title": "Xe tăng T-54B số hiệu 843",
+      "creator": "Quân đội Nhân dân Việt Nam (Lữ đoàn Xe tăng 203)",
+      "subject": "Hiện vật lịch sử hiện đại; Chiến dịch Hồ Chí Minh 30/4/1975; Lịch sử lớp 5",
+      "description": "Chiếc xe tăng T-54B mang số hiệu 843 thuộc Đại đội 4, Tiểu đoàn 1, Lữ đoàn Xe tăng 203, Quân đoàn 2, là một trong những chiếc xe tăng đầu tiên húc vào cổng Dinh Độc Lập trưa ngày 30/4/1975, đánh dấu thắng lợi hoàn toàn của Chiến dịch Hồ Chí Minh, giải phóng miền Nam, thống nhất đất nước.",
+      "publisher": "Sản phẩm thực tập Đợt 15, IMTA TECH x FPT Polytechnic (Dự án I03 - Phi lợi nhuận)",
+      "contributor": "Nguyễn Minh Bình (MSV: TH04121 - Nhóm 2)",
+      "date": "Ngày 30/04/1975",
+      "type": "Hiện vật lịch sử",
+      "format": "Thép hợp kim; Dài 9 m, rộng 3,27 m, cao 2,75 m; Tệp ảnh JPG",
+      "identifier": "I03-00015",
+      "source": "Bảo tàng Lịch sử Quân sự Việt Nam & Cục Di sản văn hóa (dsvh.gov.vn)",
+      "language": "vi",
+      "relation": "Tích hợp trong Tiết 3 - Chiến dịch Hồ Chí Minh lịch sử năm 1975",
+      "coverage": "Sài Gòn (TP. Hồ Chí Minh) / Hà Nội; Ngày 30/4/1975",
+      "rights": "Tư liệu Bảo vật quốc gia đã được công bố chính thức phục vụ giảng dạy tiểu học phi lợi nhuận.",
+      "noiLuuGiuHienNay": {
+        "tenNoiLuuGiu": "Bảo tàng Lịch sử Quân sự Việt Nam",
+        "xaPhuong": "Phường Tây Mỗ",
+        "tinhThanhPho": "Thành phố Hà Nội"
+      },
+      "noiLuuGiuTaiThoiDiemTuLieu": "Dinh Độc Lập, Quận 1, Thành phố Hồ Chí Minh (ngày 30/4/1975)",
+      "loaiBanHienThi": "Bản số của gốc",
+      "tinhTrangBanGoc": {
+        "mucDo": "Tốt",
+        "moTaNgan": "Được bảo quản và trưng bày trang trọng tại Bảo tàng Lịch sử Quân sự Việt Nam."
+      },
+      "soDangKyHoacThamKhao": "BVQG-2012-26",
+      "nguoiChoPhepCongBo": {
+        "hoTen": "Cục Di sản văn hóa & Bảo tàng Lịch sử Quân sự Việt Nam",
+        "vaiTro": "Đơn vị lưu giữ và công bố thông tin Bảo vật quốc gia",
+        "ngayDongY": "Công bố công khai trên dsvh.gov.vn"
+      },
+      "phamViDuocPhep": "Hiển thị trong bài giảng tiểu học, trích xuất dữ liệu phục vụ học tập phi lợi nhuận có ghi rõ nguồn.",
+      "phanKhongCongBo": "Không có",
+      "mucKiemChung": "Đã kiểm",
+      "phienAmDichNghia": "",
+      "danhSachAnh": [
+        {
+          "url": "/images/artifacts/I03-00015-anh-01.jpg",
+          "chuThich": "Ảnh chụp Xe tăng T-54B số hiệu 843 trưng bày tại Bảo tàng Lịch sử Quân sự Việt Nam",
+          "nguon": "Bảo tàng Lịch sử Quân sự Việt Nam / Cục Di sản văn hóa (dsvh.gov.vn)"
+        }
+      ],
+      "cauHoiGoiMo": [
+        {
+          "cauHoi": "Xe tăng mang số hiệu 843 gắn liền với sự kiện lịch sử nào vào trưa ngày 30/4/1975?",
+          "goiYTraLoi": "Tiến vào Dinh Độc Lập, đánh dấu thắng lợi của Chiến dịch Hồ Chí Minh, giải phóng miền Nam, thống nhất đất nước."
+        }
+      ]
+    }
+  ],
+  "giaoAn": [
+    {
+      "id": "GA-01",
+      "tiet": "Tiết 1",
+      "tenBaiHoc": "Buổi đầu dựng nước và đời sống thủ công xưa qua hiện vật số",
+      "khoiLop": "Lớp 4",
+      "thoiLuong": "35 phút",
+      "mucTieu": {
+        "kienThuc": [
+          "Nhận biết được các hiện vật tiêu biểu thời Văn Lang – Âu Lạc và nghề gốm truyền thống qua thư viện số.",
+          "Phân biệt được bản gốc, bản sao và bản số trên hồ sơ hiện vật."
+        ],
+        "nangLuc": [
+          "Quan sát ảnh hiện vật với công cụ phóng to để mô tả chất liệu, hoa văn trống đồng, thạp đồng, mũi tên Cổ Loa và gốm Chu Đậu.",
+          "Đọc được các trường thông tin chuẩn Dublin Core (Tiêu đề, Niên đại, Nơi lưu giữ)."
+        ],
+        "phamChat": [
+          "Có ý thức giữ gìn di sản, tôn trọng quy định bảo vệ bản gốc và trích dẫn nguồn rõ ràng."
+        ]
+      },
+      "hienVatTichHop": [
+        "I03-00001",
+        "I03-00002",
+        "I03-00003",
+        "I03-00004",
+        "I03-00008"
+      ],
+      "tienTrinh": [
+        {
+          "buoc": "1. Khởi động",
+          "thoiLuong": "5 phút",
+          "hoatDongGiaoVien": "Trình chiếu ảnh Trống đồng Ngọc Lũ (I03-00001) và đặt câu hỏi: Làm thế nào để cả lớp cùng quan sát rõ hoa văn trên mặt trống đồng mà không chạm vào hiện vật thật?",
+          "hoatDongHocSinh": "Quan sát màn hình và nêu ý kiến về việc học qua hiện vật số.",
+          "hienVatSuDung": [
+            "I03-00001"
+          ]
+        },
+        {
+          "buoc": "2. Khám phá hiện vật số",
+          "thoiLuong": "15 phút",
+          "hoatDongGiaoVien": "Hướng dẫn học sinh mở Thư viện hiện vật, quan sát các mã I03-00001, I03-00002, I03-00003, I03-00004 và I03-00008.",
+          "hoatDongHocSinh": "Phóng to ảnh hiện vật, nghe phần mô tả và ghi nhận chất liệu, niên đại, nơi lưu giữ.",
+          "hienVatSuDung": [
+            "I03-00001",
+            "I03-00002",
+            "I03-00003",
+            "I03-00004",
+            "I03-00008"
+          ]
+        },
+        {
+          "buoc": "3. Luyện tập & Phiếu học tập",
+          "thoiLuong": "10 phút",
+          "hoatDongGiaoVien": "Giao Phiếu học tập số 1 cho học sinh hoàn thành trực tiếp trên web.",
+          "hoatDongHocSinh": "Điền họ tên, lớp và trả lời câu hỏi trắc nghiệm, tự luận.",
+          "hienVatSuDung": [
+            "I03-00001",
+            "I03-00004",
+            "I03-00008"
+          ]
+        },
+        {
+          "buoc": "4. Vận dụng & Dặn dò",
+          "thoiLuong": "5 phút",
+          "hoatDongGiaoVien": "Tổng kết thành tựu đúc đồng và làm gốm của cha ông; nhắc học sinh ghi nguồn khi sưu tầm ảnh.",
+          "hoatDongHocSinh": "Chia sẻ cảm nhận sau tiết học.",
+          "hienVatSuDung": [
+            "I03-00008"
+          ]
+        }
+      ],
+      "phieuHocTap": {
+        "tieuDe": "Phiếu học tập số 1: Khám phá hiện vật thời dựng nước và gốm cổ",
+        "huongDan": "Em hãy tra cứu các mã hiện vật I03-00001, I03-00004, I03-00008 trong Thư viện hiện vật số để hoàn thành các câu hỏi dưới đây.",
+        "cauHoi": [
+          {
+            "id": "Q1-1",
+            "loai": "trac-nghiem",
+            "cauHoi": "Trống đồng Ngọc Lũ (mã I03-00001) hiện nay đang được lưu giữ ở đâu?",
+            "luaChon": [
+              "Bảo tàng Lịch sử Quốc gia (Thành phố Hà Nội)",
+              "Chùa Phật Tích (Tỉnh Bắc Ninh)",
+              "Khu di tích Lam Kinh (Tỉnh Thanh Hóa)"
+            ],
+            "dapAnGoiY": "Bảo tàng Lịch sử Quốc gia (Thành phố Hà Nội)",
+            "maHienVatLienQuan": "I03-00001"
+          },
+          {
+            "id": "Q1-2",
+            "loai": "trac-nghiem",
+            "cauHoi": "Sưu tập Mũi tên đồng Cổ Loa (mã I03-00004) thuộc loại hình hiện vật nào?",
+            "luaChon": [
+              "Hiện vật khảo cổ",
+              "Tranh dân gian",
+              "Văn bản lịch sử"
+            ],
+            "dapAnGoiY": "Hiện vật khảo cổ",
+            "maHienVatLienQuan": "I03-00004"
+          },
+          {
+            "id": "Q1-3",
+            "loai": "tu-luan",
+            "cauHoi": "Quan sát Bình gốm hoa lam vẽ thiên nga (mã I03-00008), em hãy nêu 2 đặc điểm nổi bật của chiếc bình và giải thích vì sao cần bảo vệ bản gốc.",
+            "dapAnGoiY": "Bình cao 54 cm, men trắng ngà vẽ họa tiết thiên nga màu xanh lam; bảo vệ bản gốc để tránh rơi vỡ và giữ gìn di sản cho thế hệ sau.",
+            "maHienVatLienQuan": "I03-00008"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GA-02",
+      "tiet": "Tiết 2",
+      "tenBaiHoc": "Dấu ấn văn hóa thời Lý tại Bắc Ninh và tư liệu văn bia lịch sử",
+      "khoiLop": "Lớp 4 – Lớp 5",
+      "thoiLuong": "35 phút",
+      "mucTieu": {
+        "kienThuc": [
+          "Nhận biết được các Bảo vật quốc gia tiêu biểu tại Bắc Ninh (Tượng Phật A Di Đà chùa Phật Tích, Cột đá chùa Dạm) và văn bia lịch sử (Bia Vĩnh Lăng, Trống đồng Cảnh Thịnh).",
+          "Hiểu cách đọc phần phiên âm, dịch nghĩa và đối chiếu địa danh xưa – nay."
+        ],
+        "nangLuc": [
+          "So sánh được địa danh tại thời điểm lập tư liệu với đơn vị hành chính hai cấp (xã/phường, tỉnh/thành phố) hiện nay.",
+          "Sử dụng Trợ lý hỏi đáp di sản để tra cứu thông tin hiện vật."
+        ],
+        "phamChat": [
+          "Tự hào về truyền thống văn hóa quê hương Bắc Ninh và giữ gìn trật tự, tôn nghiêm khi tham quan di tích."
+        ]
+      },
+      "hienVatTichHop": [
+        "I03-00005",
+        "I03-00006",
+        "I03-00007",
+        "I03-00009"
+      ],
+      "tienTrinh": [
+        {
+          "buoc": "1. Khởi động",
+          "thoiLuong": "5 phút",
+          "hoatDongGiaoVien": "Giới thiệu Tượng Phật A Di Đà chùa Phật Tích (I03-00005) và Cột đá chùa Dạm (I03-00006) tại tỉnh Bắc Ninh.",
+          "hoatDongHocSinh": "Kể tên các ngôi chùa, di tích lịch sử ở Bắc Ninh mà em biết.",
+          "hienVatSuDung": [
+            "I03-00005",
+            "I03-00006"
+          ]
+        },
+        {
+          "buoc": "2. Khám phá điêu khắc đá và văn tự khắc trên hiện vật",
+          "thoiLuong": "15 phút",
+          "hoatDongGiaoVien": "Hướng dẫn học sinh tìm hiểu nghệ thuật chạm khắc đá thời Lý (I03-00005, I03-00006) và đọc nội dung dịch nghĩa trên Bia Vĩnh Lăng (I03-00007), Trống đồng Cảnh Thịnh (I03-00009).",
+          "hoatDongHocSinh": "Quan sát chi tiết hoa văn rồng thời Lý và đọc phần phiên âm, dịch nghĩa.",
+          "hienVatSuDung": [
+            "I03-00005",
+            "I03-00006",
+            "I03-00007",
+            "I03-00009"
+          ]
+        },
+        {
+          "buoc": "3. Luyện tập & Phiếu học tập",
+          "thoiLuong": "10 phút",
+          "hoatDongGiaoVien": "Hướng dẫn học sinh làm Phiếu học tập số 2.",
+          "hoatDongHocSinh": "Hoàn thành phiếu học tập và kiểm tra đáp án.",
+          "hienVatSuDung": [
+            "I03-00005",
+            "I03-00007"
+          ]
+        },
+        {
+          "buoc": "4. Vận dụng",
+          "thoiLuong": "5 phút",
+          "hoatDongGiaoVien": "Nhắc nhở học sinh ý thức bảo vệ di tích lịch sử tại địa phương.",
+          "hoatDongHocSinh": "Nêu các việc nên làm khi đi tham quan chùa, đình, bảo tàng.",
+          "hienVatSuDung": [
+            "I03-00006"
+          ]
+        }
+      ],
+      "phieuHocTap": {
+        "tieuDe": "Phiếu học tập số 2: Di sản văn hóa thời Lý và văn bia lịch sử",
+        "huongDan": "Dựa vào các bản ghi I03-00005, I03-00006, I03-00007 trong thư viện, em hãy trả lời các câu hỏi sau.",
+        "cauHoi": [
+          {
+            "id": "Q2-1",
+            "loai": "trac-nghiem",
+            "cauHoi": "Tượng Phật A Di Đà chùa Phật Tích (I03-00005) và Cột đá chùa Dạm (I03-00006) được chế tác vào triều đại nào?",
+            "luaChon": [
+              "Triều đại nhà Lý (thế kỷ XI)",
+              "Triều đại nhà Nguyễn (thế kỷ XIX)",
+              "Thời kỳ Văn hóa Đông Sơn"
+            ],
+            "dapAnGoiY": "Triều đại nhà Lý (thế kỷ XI)",
+            "maHienVatLienQuan": "I03-00005"
+          },
+          {
+            "id": "Q2-2",
+            "loai": "trac-nghiem",
+            "cauHoi": "Ai là danh nhân đã biên soạn bài văn khắc trên Bia Vĩnh Lăng (I03-00007)?",
+            "luaChon": [
+              "Nguyễn Trãi",
+              "Lý Thường Kiệt",
+              "Trần Hưng Đạo"
+            ],
+            "dapAnGoiY": "Nguyễn Trãi",
+            "maHienVatLienQuan": "I03-00007"
+          },
+          {
+            "id": "Q2-3",
+            "loai": "tu-luan",
+            "cauHoi": "Vì sao trong hồ sơ hiện vật cần ghi rõ cả nơi lưu giữ hiện nay (xã/phường, tỉnh/thành phố) và địa danh cũ?",
+            "dapAnGoiY": "Vì tên gọi và địa giới hành chính thay đổi qua các thời kỳ lịch sử, ghi cả hai giúp tra cứu chính xác vị trí hiện tại và nguồn gốc xưa.",
+            "maHienVatLienQuan": "I03-00006"
+          }
+        ]
+      }
+    },
+    {
+      "id": "GA-03",
+      "tiet": "Tiết 3",
+      "tenBaiHoc": "Làng nghề Đông Hồ và những bảo vật lịch sử thời đại Hồ Chí Minh",
+      "khoiLop": "Lớp 5",
+      "thoiLuong": "35 phút",
+      "mucTieu": {
+        "kienThuc": [
+          "Tìm hiểu nét đẹp tranh dân gian Đông Hồ (Bắc Ninh) và các tư liệu, bảo vật gắn với Chủ tịch Hồ Chí Minh, Cách mạng tháng Tám 1945 và Đại thắng mùa Xuân 1975.",
+          "Hiểu giá trị lịch sử của từng hiện vật đối với dân tộc."
+        ],
+        "nangLuc": [
+          "Khai thác thông tin từ văn bản lịch sử và hiện vật số để kể lại câu chuyện lịch sử ngắn gọn.",
+          "Biết trích dẫn nguồn tư liệu khi học tập."
+        ],
+        "phamChat": [
+          "Kính yêu Chủ tịch Hồ Chí Minh, biết ơn các thế hệ cha anh và trân trọng nghề truyền thống quê hương."
+        ]
+      },
+      "hienVatTichHop": [
+        "I03-00010",
+        "I03-00011",
+        "I03-00012",
+        "I03-00013",
+        "I03-00014",
+        "I03-00015"
+      ],
+      "tienTrinh": [
+        {
+          "buoc": "1. Khởi động",
+          "thoiLuong": "5 phút",
+          "hoatDongGiaoVien": "Trình chiếu bức tranh Đông Hồ 'Đám cưới chuột' (I03-00011) và Thư Bác Hồ gửi học sinh ngày khai trường 9/1945 (I03-00014).",
+          "hoatDongHocSinh": "Nêu cảm nhận về màu sắc tranh Đông Hồ và lời dặn của Bác Hồ.",
+          "hienVatSuDung": [
+            "I03-00011",
+            "I03-00014"
+          ]
+        },
+        {
+          "buoc": "2. Khám phá tư liệu và bảo vật lịch sử cận – hiện đại",
+          "thoiLuong": "15 phút",
+          "hoatDongGiaoVien": "Chia nhóm tìm hiểu các mã I03-00010 (Ấn vàng Hoàng đế chi bảo), I03-00012 (Đường Kách mệnh), I03-00013 (Lời kêu gọi toàn quốc kháng chiến) và I03-00015 (Xe tăng 843).",
+          "hoatDongHocSinh": "Đọc thông tin bản ghi, nghe giọng đọc mô tả và thảo luận câu hỏi gợi mở.",
+          "hienVatSuDung": [
+            "I03-00010",
+            "I03-00012",
+            "I03-00013",
+            "I03-00015"
+          ]
+        },
+        {
+          "buoc": "3. Hoàn thành Phiếu học tập số 3",
+          "thoiLuong": "10 phút",
+          "hoatDongGiaoVien": "Hướng dẫn học sinh hoàn thành Phiếu học tập số 3 trên hệ thống.",
+          "hoatDongHocSinh": "Làm bài và tự đối chiếu đáp án gợi ý.",
+          "hienVatSuDung": [
+            "I03-00013",
+            "I03-00014",
+            "I03-00015"
+          ]
+        },
+        {
+          "buoc": "4. Vận dụng",
+          "thoiLuong": "5 phút",
+          "hoatDongGiaoVien": "Tổng kết chuyên đề và hướng dẫn học sinh xem trang Nguồn tư liệu & Ghi nhận.",
+          "hoatDongHocSinh": "Chia sẻ điều em ấn tượng nhất trong bộ 15 hiện vật số.",
+          "hienVatSuDung": [
+            "I03-00015"
+          ]
+        }
+      ],
+      "phieuHocTap": {
+        "tieuDe": "Phiếu học tập số 3: Di sản quê hương và những mốc son lịch sử",
+        "huongDan": "Hoàn thành các câu hỏi dựa trên các mã I03-00010, I03-00011, I03-00014 và I03-00015.",
+        "cauHoi": [
+          {
+            "id": "Q3-1",
+            "loai": "trac-nghiem",
+            "cauHoi": "Xe tăng T-54B số hiệu 843 (mã I03-00015) gắn với sự kiện lịch sử trọng đại nào?",
+            "luaChon": [
+              "Tiến vào Dinh Độc Lập trưa ngày 30/4/1975, giải phóng miền Nam, thống nhất đất nước",
+              "Chiến thắng Điện Biên Phủ năm 1954",
+              "Khởi nghĩa Lam Sơn năm 1428"
+            ],
+            "dapAnGoiY": "Tiến vào Dinh Độc Lập trưa ngày 30/4/1975, giải phóng miền Nam, thống nhất đất nước",
+            "maHienVatLienQuan": "I03-00015"
+          },
+          {
+            "id": "Q3-2",
+            "loai": "tu-luan",
+            "cauHoi": "Em hãy viết lại lời dặn của Chủ tịch Hồ Chí Minh dành cho học sinh trong bức thư tháng 9/1945 (mã I03-00014) và nêu quyết tâm học tập của em.",
+            "dapAnGoiY": "Non sông Việt Nam có trở nên tươi đẹp hay không, dân tộc Việt Nam có bước tới đài vinh quang để sánh vai với các cường quốc năm châu được hay không, chính là nhờ một phần lớn ở công học tập của các em.",
+            "maHienVatLienQuan": "I03-00014"
+          }
+        ]
+      }
+    }
+  ],
+  "nguonThamKhao": [
+    {
+      "id": "REF-01",
+      "loaiNguon": "Nguồn chính thống",
+      "tenTaiLieu": "Luật Di sản văn hóa (và các văn bản sửa đổi, bổ sung hợp nhất)",
+      "tacGiaHoacCoQuan": "Quốc hội nước Cộng hòa xã hội chủ nghĩa Việt Nam",
+      "namXuatBan": "2001 (sửa đổi 2009, 2024)",
+      "moTaNgan": "Văn bản pháp lý quy định về bảo vệ, phát huy giá trị di sản văn hóa vật thể, phi vật thể, bảo tàng và quyền tiếp cận di sản phục vụ giáo dục.",
+      "lienKet": "https://dsvh.gov.vn"
+    },
+    {
+      "id": "REF-02",
+      "loaiNguon": "Nguồn chính thống",
+      "tenTaiLieu": "Chương trình Giáo dục phổ thông 2018 - Môn Lịch sử và Địa lí (Cấp Tiểu học)",
+      "tacGiaHoacCoQuan": "Bộ Giáo dục và Đào tạo",
+      "namXuatBan": "2018",
+      "moTaNgan": "Khung chương trình quy định mục tiêu, yêu cầu cần đạt và nội dung Giáo dục địa phương cho học sinh lớp 3, lớp 4 và lớp 5.",
+      "lienKet": "https://moet.gov.vn"
+    },
+    {
+      "id": "REF-03",
+      "loaiNguon": "Nguồn chính thống",
+      "tenTaiLieu": "Cổng thông tin Cục Di sản văn hóa - Hồ sơ Bảo vật quốc gia và Di sản văn hóa",
+      "tacGiaHoacCoQuan": "Cục Di sản văn hóa - Bộ Văn hóa, Thể thao và Du lịch",
+      "namXuatBan": "2024",
+      "moTaNgan": "Nguồn đối chiếu chính thống về hồ sơ lý lịch, niên đại, nơi lưu giữ và hình ảnh các Bảo vật quốc gia.",
+      "lienKet": "https://dsvh.gov.vn"
+    },
+    {
+      "id": "REF-04",
+      "loaiNguon": "Nguồn chính thống",
+      "tenTaiLieu": "ISO 15836-1:2017 — Information and documentation: The Dublin Core metadata element set",
+      "tacGiaHoacCoQuan": "Tổ chức Tiêu chuẩn hóa Quốc tế (ISO) & Dublin Core Metadata Initiative (DCMI)",
+      "namXuatBan": "2017",
+      "moTaNgan": "Chuẩn quốc tế quy định 15 trường siêu dữ liệu lõi (Title, Creator, Subject, Description, Publisher, Contributor, Date, Type, Format, Identifier, Source, Language, Relation, Coverage, Rights) dùng trong số hóa tài nguyên văn hóa.",
+      "lienKet": "https://www.dublincore.org/specifications/dublin-core/dces/"
+    },
+    {
+      "id": "REF-05",
+      "loaiNguon": "Tài liệu tham khảo chuyên môn",
+      "tenTaiLieu": "Cổng thông tin Bảo tàng Lịch sử Quốc gia Việt Nam - Hồ sơ hiện vật trực tuyến",
+      "tacGiaHoacCoQuan": "Bảo tàng Lịch sử Quốc gia",
+      "namXuatBan": "2024",
+      "moTaNgan": "Nguồn tư liệu và hình ảnh chính thức về Trống đồng Ngọc Lũ, Hoàng Hạ, Thạp đồng Đào Thịnh, Mũi tên đồng Cổ Loa, Gốm Chu Đậu, Đường Kách mệnh và Lời kêu gọi toàn quốc kháng chiến.",
+      "lienKet": "https://baotanglichsu.vn"
+    },
+    {
+      "id": "REF-06",
+      "loaiNguon": "Tài liệu tham khảo chuyên môn",
+      "tenTaiLieu": "Triển lãm trực tuyến tư liệu lưu trữ Quốc gia & Cổng thông tin điện tử tỉnh Bắc Ninh",
+      "tacGiaHoacCoQuan": "Cục Văn thư và Lưu trữ Nhà nước & UBND tỉnh Bắc Ninh",
+      "namXuatBan": "2024",
+      "moTaNgan": "Nguồn tư liệu về Thư Chủ tịch Hồ Chí Minh gửi học sinh (9/1945) và các di sản văn hóa tiêu biểu của tỉnh Bắc Ninh (chùa Phật Tích, chùa Dạm, tranh dân gian Đông Hồ).",
+      "lienKet": "https://archives.org.vn"
+    },
+    {
+      "id": "REF-07",
+      "loaiNguon": "Tài liệu tham khảo chuyên môn",
+      "tenTaiLieu": "Quy tắc số hóa di sản văn hóa và quản lý quyền công bố tư liệu cộng đồng",
+      "tacGiaHoacCoQuan": "ICOMOS / UNESCO Memory of the World Guidelines",
+      "namXuatBan": "2020",
+      "moTaNgan": "Cơ sở xây dựng các trường 'Người cho phép công bố', 'Phạm vi được phép', 'Phần không công bố' và nguyên tắc trung thực khoa học.",
+      "lienKet": "https://www.unesco.org"
+    }
+  ]
+}
