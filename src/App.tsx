@@ -2,7 +2,7 @@
  * @license
  * SPDX-License-Identifier: Apache-2.0
  */
-
+import tulieuStatic from '../tulieu.json';
 import { useEffect, useState } from 'react';
 import { AlertCircle, Loader2, RefreshCw } from 'lucide-react';
 import { AboutScreen } from './components/AboutScreen';
@@ -25,25 +25,21 @@ export default function App() {
   const [librarySearchQuery, setLibrarySearchQuery] = useState<string>('');
   const [assistantPrefillCode, setAssistantPrefillCode] = useState<string | undefined>(undefined);
 
-  const fetchDataset = async () => {
+const fetchDataset = async () => {
     setLoading(true);
     setLoadError(null);
     try {
       const response = await fetch('/api/tulieu');
-      if (!response.ok) {
+      const contentType = response.headers.get('content-type') || '';
+      if (!response.ok || !contentType.includes('application/json')) {
         throw new Error('Không thể tải dữ liệu từ /api/tulieu');
       }
       const data = (await response.json()) as HeritageDataset;
       setDataset(data);
-      if (data.hienVat.length > 0 && !selectedArtifactId) {
-        setSelectedArtifactId(data.hienVat[0].identifier);
-      }
-    } catch (err) {
-      setLoadError(
-        err instanceof Error
-          ? err.message
-          : 'Không thể tải tệp tư liệu tulieu.json. Vui lòng kiểm tra máy chủ.'
-      );
+    } catch {
+      // Tự động nạp trực tiếp từ tulieu.json khi triển khai web tĩnh trên Vercel
+      setDataset(tulieuStatic as unknown as HeritageDataset);
+      setLoadError(null);
     } finally {
       setLoading(false);
     }
